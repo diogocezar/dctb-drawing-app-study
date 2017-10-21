@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.atitude67.com/sitemap.xml
